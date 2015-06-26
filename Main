@@ -1,0 +1,17 @@
+package Main;
+
+/**
+ *
+ * @author Ash
+ */
+public class Main {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Calculator Calc = new Calculator();
+        Calc.setVisible(true);        
+    }
+    
+}
