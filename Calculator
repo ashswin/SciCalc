@@ -207,7 +207,7 @@ public class Calculator extends javax.swing.JFrame {
                 btn2ActionPerformed(evt);
             }
         });
-
+        
         btn5.setText("5");
         calcGrp.add(btn5);
         btn5.addActionListener(new java.awt.event.ActionListener() {
